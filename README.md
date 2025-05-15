@@ -63,7 +63,7 @@ A compact IoT-based power and energy monitoring system using an ESP32 microcontr
 
    ```
 
-   ### ✅ File Structure in GitHub Repo
+### ✅ File Structure in GitHub Repo
 
 SmartIoT-EnergyMonitor/
 │
