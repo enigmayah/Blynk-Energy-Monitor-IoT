@@ -65,12 +65,12 @@ A compact IoT-based power and energy monitoring system using an ESP32 microcontr
 
 ### ✅ File Structure in GitHub Repo
 
-SmartIoT-EnergyMonitor/
-│
-├── i2c_scanner.ino
-├── energy_monitor_blynk.ino
-├── README.md
-└── LICENSE
+SmartIoT-EnergyMonitor/\
+│\
+├── i2c_scanner.ino\
+├── energy_monitor_blynk.ino\
+├── README.md\
+└── LICENSE\
 
 
 ### 📜 License
