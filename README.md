@@ -60,3 +60,23 @@ A compact IoT-based power and energy monitoring system using an ESP32 microcontr
    Open .ino files with Arduino IDE or PlatformIO.
    Flash the code to ESP32.
    Monitor power data via LCD and Blynk.
+
+   ```
+
+   ### ✅ File Structure in GitHub Repo
+
+SmartIoT-EnergyMonitor/
+│
+├── i2c_scanner.ino
+├── energy_monitor_blynk.ino
+├── README.md
+└── LICENSE
+
+
+### 📜 License
+This project is licensed under the MIT License.
+
+You are free to use, modify, and distribute this code for both personal and commercial purposes, provided that proper credit is given to the original author.
+
+
+
